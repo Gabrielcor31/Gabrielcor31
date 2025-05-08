@@ -1,4 +1,4 @@
-# ⚡ Gabriel Correia
+# 👨‍💻 Gabriel Correia
 
 **`Data Scientist`**
 
@@ -48,28 +48,26 @@ Me chamo Gabriel Correia, apaixonado por tecnologia, dados e transformação de 
 <img alt="Excel" title="Microsoft Excel" width="30px" src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" />
 <img alt="Power BI" title="Power BI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
 
-</p>
-
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+<img 
     src="https://github-readme-stats.vercel.app/api?username=Gabrielcor31&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="200" 
+    alt="Estatísticas GitHub"
+    align="left"
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcor31&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=15" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcor31&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20" 
+    height="200" 
+    alt="Linguagens Mais Usadas"
+    align="left"
   />
-
 </p>
+
+
+
 
