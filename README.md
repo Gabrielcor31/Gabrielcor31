@@ -50,25 +50,26 @@ Me chamo Gabriel Correia, apaixonado por tecnologia, dados e transformação de 
 
 </p>
 
----
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
+<p>
   <img 
-    alt="Estatísticas do GitHub" 
+    align="left" 
+    alt="GitHub Stats" 
     height="200" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Gabrielcor31&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-  <img 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcor31&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcor31&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=15" 
   />
 
-</div>
-
----
+</p>
 
