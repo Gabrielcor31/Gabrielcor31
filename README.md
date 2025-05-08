@@ -1,22 +1,72 @@
-### Olá! Eu sou o Gabriel Correia 🖐🏼
+# ⚡ Gabriel Correia
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielcsantos_31?igsh=OGoxb2pzbjd1dGcw)
+**`Data Scientist`**
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielcor31&show_icons=true&theme=onedark)
+Me chamo Gabriel Correia, apaixonado por tecnologia, dados e transformação de contextos através da inteligência artificial. Atuo na área de Cientista de Dados, com foco em projetos que combinam ciência de dados, machine learning e soluções práticas para problemas reais. Aqui no GitHub você vai encontrar meus experimentos, estudos e aplicações voltadas à IA, análise de dados e automação.
 
-### Tecnologias que uso no meu dia
+<p align="left">
+  <a href="https://github.com/Gabrielcor31?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/Gabrielcor31?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+    />
+  </a>
+  <a href="https://github.com/Gabrielcor31?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/Gabrielcor31?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+</p>
 
-<div style="display: inline_block"><br/>
-  <img aling="center" alt= "MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img aling="center" alt= "MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img aling="center" alt= "Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img aling="center" alt= "TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img aling="center" alt= "R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img aling="center" alt= "Microsoft ExcelL" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</div><br/>
+---
 
-Apaixonado por tecnologia, e por mudar contextos através da IA.
-<br/>
-"Tu, Senhor, conservarás em perfeita paz aquele cujo propósito é firme; porque ele confia em ti.🙇🏽‍♂️"
-<br/>
-Isaias 26:3
+### 🧠 Linguagens e Tecnologias
+
+<p align="left">
+
+<!-- Linguagens -->
+<img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img alt="R" title="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+<img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img alt="SQLite" title="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+<img alt="MongoDB" title="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img alt="Cassandra" title="Cassandra" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" />
+
+<!-- Bibliotecas -->
+<img alt="Pandas" title="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<img alt="NumPy" title="NumPy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+<img alt="Scikit-learn" title="Scikit-learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img alt="TensorFlow" title="TensorFlow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+<img alt="Keras" title="Keras" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" />
+<img alt="Matplotlib" title="Matplotlib" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
+
+<!-- Ferramentas -->
+<img alt="Excel" title="Microsoft Excel" width="30px" src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" />
+<img alt="Power BI" title="Power BI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img 
+    alt="Estatísticas do GitHub" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=Gabrielcor31&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    alt="Linguagens mais usadas" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcor31&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
+  />
+</p>
+
+---
+
