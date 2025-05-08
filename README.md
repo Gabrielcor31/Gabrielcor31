@@ -2,7 +2,7 @@
 
 **`Data Scientist`**
 
-Me chamo Gabriel Correia, apaixonado por tecnologia, dados e transformação de contextos através da inteligência artificial. Atuo na área de Cientista de Dados, com foco em projetos que combinam ciência de dados, machine learning e soluções práticas para problemas reais. Aqui no GitHub você vai encontrar meus experimentos, estudos e aplicações voltadas à IA, análise e Gerenciamento de dados.
+Me chamo Gabriel Correia, apaixonado por tecnologia, dados e transformação de contextos através da inteligência artificial. Atuo na área de Cientista de Dados, com foco em projetos que combinam ciência de dados, machine learning e soluções práticas para problemas reais. Aqui no GitHub você vai encontrar meus experimentos, estudos e aplicações voltadas à IA, análise e gerenciamento de dados.
 
 <p align="left">
   <a href="https://github.com/Gabrielcor31?tab=repositories&sort=stargazers">
