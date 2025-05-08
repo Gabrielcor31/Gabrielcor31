@@ -54,7 +54,8 @@ Me chamo Gabriel Correia, apaixonado por tecnologia, dados e transformação de 
 
 ### 📊 Estatísticas
 
-<p align="left">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
   <img 
     alt="Estatísticas do GitHub" 
     height="200" 
@@ -66,7 +67,8 @@ Me chamo Gabriel Correia, apaixonado por tecnologia, dados e transformação de 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcor31&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
-</p>
+
+</div>
 
 ---
 
